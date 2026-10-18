@@ -1,0 +1,5 @@
+# Empty (if the store next in line is empty)
+GT4500,2,0,0,0
+
+TORPEDO,SINGLE
+TORPEDO,SINGLE
