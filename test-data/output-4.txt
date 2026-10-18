@@ -1,0 +1,3 @@
+SUCCESS  # Ship
+
+FAIL   # Shot
